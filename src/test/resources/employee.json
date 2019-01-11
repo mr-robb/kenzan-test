@@ -1,0 +1,23 @@
+[
+    {
+    "firstName" : "Leito",
+    "middleInitial" : "Lion",
+    "lastName" : "Gutiérrez",
+    "dateOfBirth" : "2009-07-06",
+    "dateOfEmployment" : "2017-12-21"
+    },
+    {
+    "firstName" : "Robb",
+    "middleInitial" : "Bobby",
+    "lastName" : "Fisher",
+    "dateOfBirth" : "2009-07-06",
+    "dateOfEmployment" : "2017-12-21"
+    },
+    {
+    "firstName" : "Tio",
+    "middleInitial" : "Rou",
+    "lastName" : "Sánchez",
+    "dateOfBirth" : "2009-07-06",
+    "dateOfEmployment" : "2017-12-21"
+    }
+    ]

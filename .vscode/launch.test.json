@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "customers-api",
+                "projectName": "customers-api",
+                "workingDirectory": "/home/robb/Documentos/dev/kenzan/customers-api",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "customers-api",
+                "projectName": "customers-api",
+                "workingDirectory": "/home/robb/Documentos/dev/kenzan/customers-api",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

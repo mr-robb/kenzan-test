@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CustomersApiApplication<customers-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.kenzan.hiring.customersapi.CustomersApiApplication",
+            "projectName": "customers-api",
+            "args": ""
+        }
+    ]
+}
